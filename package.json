@@ -46,8 +46,6 @@
     "npm": "^6.6.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^2.1.6",
-    "redux-devtools-extension": "^2.13.7",
-    "redux-logger": "^3.0.6",
     "resolve-url-loader": "^2.3.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",
